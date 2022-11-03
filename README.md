@@ -3,7 +3,7 @@
 
 ## Table of contents
 * [Description](#description)
-** [Technologies](#technologies)
+* [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
 * [App Info](#app-info)
@@ -39,8 +39,8 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 ###  Clone repo
 Run the following scripts in the terminal to clone the repo
 ```
-$ git clone git@github.com:Mayday8080/mpesa-app.git
-$ cd payment-backend
+$ git clone git@github.com:Mayday8080/mpesa-backend.git
+$ cd mpesa-backend
 ```
 
 ----------------------------------
