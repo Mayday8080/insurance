@@ -1,4 +1,4 @@
-# Payment App Backend
+# Mpesa Backend
 >Nodejs backend for payment app.
 
 ## Table of contents
